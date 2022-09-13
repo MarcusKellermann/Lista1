@@ -1,0 +1,3 @@
+O que é a GLSL? Quais os dois tipos de shaders são obrigatórios no pipeline programável 
+da versão atual que trabalhamos em aula e o que eles processam? - é uma linguagem de shading de alto nível baseada na linguagem de programação C.
+Estágio de Vertex shading e Estágio de Fragment shading
