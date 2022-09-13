@@ -1,0 +1,17 @@
+Explique o que é VBO, VAO e EBO, e como se relacionam (se achar mais fácil, pode fazer 
+um gráfico representando a relação entre eles). 
+
+Vertex Array Objects (VAOs)
+Fazem a ligação dos atributos de um vértice
+– Posição, cores, normais
+- Definem:
+– Qual o VBO que será usado
+– Localização dos dados desse VBO
+– Qual o formato desses dados
+
+Vertex Array Objects (VAOs)
+é um objeto que contém um ou mais objetos de buffer de vértice, 
+e é projetado para armazenar as informações de um objeto renderizado completo.
+
+VBOs
+Um objeto de buffer de vértice é um recurso OpenGL que fornece métodos para enviar dados de vértice para o dispositivo de vídeo para renderização de modo não imediato.
